@@ -1,16 +1,8 @@
-# assignment_2
+Denishan Savarimuthu 
+100742526
+Assignment 2 Flutter development
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+*********IMPORTANT NOTE*************
+While important files such main.dart were able to be uploaded, hidden files such as .dart_tool and .idea were not allowed to be uploaded. 
+The same is true for the folder named build.
+All these files are created when a new project is created and were not altered for this project
